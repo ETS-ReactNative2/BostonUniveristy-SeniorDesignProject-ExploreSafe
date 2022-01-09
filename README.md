@@ -51,13 +51,13 @@ Our app currently depends on two API keys which are not included in this github 
 The user interface of our app is designed using the colours with the corresponding hex codes pictured below. These are also the colours used for our logo, and will help to ensure that the application UI looks uniform throughout development. 
 
 <p align="center">
- <img src="https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/colourScheme.PNG" width="500" />
+ <img src="https://github.com/hmao1/BostonUniveristy-SeniorDesignProject-ExploreSafe/blob/main/UIPics/colourScheme.PNG" width="500" />
   </p>
  
 ## Created By
 Carlos Eduardo Lousan Padilha \
-Neha Rai \
 Hongcheng Mao \
+Neha Rai \
 Steven Tong \
 Mohammed Alsoughayer 
 
