@@ -1,9 +1,9 @@
 //source from https://github.com/itzpradip/react-native-firebase-social-app/blob/master/components/FormButton.js
 import React from 'react';
-import {Text, TouchableOpacity, StyleSheet} from 'react-native';
-import {windowHeight, windowWidth} from '../utils/Dimentions';
+import { Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { windowHeight, windowWidth } from '../utils/Dimentions';
 
-const FormButton = ({buttonTitle, ...rest}) => {
+const FormButton = ({ buttonTitle, ...rest }) => {
   return (
     <TouchableOpacity style={styles.buttonContainer} {...rest}>
       <Text style={styles.buttonText}>{buttonTitle}</Text>
@@ -13,6 +13,8 @@ const FormButton = ({buttonTitle, ...rest}) => {
 
 export default FormButton;
 
+
+//style for the FormButton component
 const styles = StyleSheet.create({
   buttonContainer: {
     marginTop: 10,
