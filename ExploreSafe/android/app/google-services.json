@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077498623949",
+    "firebase_url": "https://exploresafe-47aed.firebaseio.com",
+    "project_id": "exploresafe-47aed",
+    "storage_bucket": "exploresafe-47aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077498623949:android:8b21298450508b9d1ff684",
+        "android_client_info": {
+          "package_name": "com.exploresafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077498623949-18l3vq356564uo6amhi10n56bk5lstfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsBB_h1TIthRTuDQdL4ZkEyEKKzVzKZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077498623949-18l3vq356564uo6amhi10n56bk5lstfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077498623949-r2kqdko3lroktfmoljmnfj7nk0a7q5m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ExploreSafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
