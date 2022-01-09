@@ -1,6 +1,6 @@
 # 21-16-Explore-Safe
 <p align="center">
-  <img src="https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/ExploreSafe/Logos/mainLogo.png" width="250">
+  <img src="https://github.com/hmao1/BostonUniveristy-SeniorDesignProject-ExploreSafe/blob/main/UIPics/mainLogo.png" width="250">
 </p>
 
 ## Overview
