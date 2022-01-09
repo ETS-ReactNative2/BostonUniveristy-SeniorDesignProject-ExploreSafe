@@ -15,7 +15,7 @@ While nature is beautiful to explore, it can also be unpredictable and dangerous
 
 A selection of the pages in the app are displayed below to visualise the a few of the mentioned features:
 
-| ![](https://github.com/hmao1/BostonUniveristy-SeniorDesignProject-ExploreSafe/tree/main/UIPics/Login.png) |  <img src="https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Home.jpg" width="700" />|![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Planning.png) | ![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Details.png) | ![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/SmartCam.jpg) |![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Map.png) | 
+| ![](https://github.com/hmao1/BostonUniveristy-SeniorDesignProject-ExploreSafe/blob/master/UIPics/Login.png) |  <img src="https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Home.jpg" width="700" />|![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Planning.png) | ![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Details.png) | ![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/SmartCam.jpg) |![](https://github.com/BostonUniversitySeniorDesign/21-16-Explore-Safe/blob/master/UIPics/Map.png) | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Login | Home | Planning | Details | Smart Camera|Map |
 
